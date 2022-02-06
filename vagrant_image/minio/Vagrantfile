@@ -7,7 +7,7 @@ Vagrant.configure("2") do |config|
   IMAGE_NAME     = "ubuntu/focal64"
   IMAGE_VERSION  = "20210624.0.0"
 
-  MACHINE_NAME   = "spark-master-node"
+  MACHINE_NAME   = "s3-server"
   MACHINE_IP    = "10.1.1.100"
 
   #
